@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = Omniauth::Daum::VERSION
   s.authors     = ["Hoseong Hwang"]
   s.email       = ["thefron@wafflestudio.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/thefron/omniauth-daum"
   s.summary     = %q{OmniAuth strategy for Daum}
   s.description = %q{OmniAuth strategy for Daum}
 
